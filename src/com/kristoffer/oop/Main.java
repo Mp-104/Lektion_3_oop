@@ -19,6 +19,7 @@ public class Main {
             System.out.println("Dang, i'm tired bruh");
         }
 
+        // comment test
         System.out.println(frida.name);
         System.out.println(frida.age);
         System.out.println(frida.isTired);
